@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, my name is Caroline.
+#### (Find me on LinkedIn[www.linkedin.com/in/carolinemilitello])
 
 <!--
 **cmilitello1/cmilitello1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
